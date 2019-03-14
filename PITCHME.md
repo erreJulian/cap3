@@ -26,7 +26,7 @@
 
 ---
 
-> Un enfoque filosofico que le de prioridad a las variadas funciones de los modelos está mejor preparada para dar algo de unidad a lajungla de estrategias para su construcción (p. 45)
+> Un enfoque filosofico que le de prioridad a las variadas funciones de los modelos está mejor preparada para dar algo de unidad a la jungla de estrategias para su construcción (p. 45)
 
 ---
 
