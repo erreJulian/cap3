@@ -35,3 +35,14 @@
 - Los causales microscópicos permiten señalar una clase de sistemas objetivo que comparten estructura causal.
 
 ---
+
+## 3.2 BCS 
+
+---
+## The Hubbard Model
+
+---
+
+- Ginzburg-Landeau se acercaron al problema de la superconductividad desde una perspectiva global, buscando características del fenómeno en lugar de mecanismos causales a nivel cúantico.
+
+- 
