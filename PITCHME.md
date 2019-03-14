@@ -27,6 +27,7 @@
 ---
 
 > Un enfoque filosofico que le de prioridad a las variadas funciones de los modelos está mejor preparada para dar algo de unidad a lajungla de estrategias para su construcción (p. 45)
+
 - El dirigido a objetivos puede ser mejor cuando uno no tiene mucha idea de los procesos causales o de la teoría.
 
 ---
