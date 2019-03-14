@@ -17,7 +17,7 @@
     - Causales-microscopicos
     - dirigidos al objetivo.
 
-> ˆ(p.44)
+> (p.44)
 ---
 
 - Modelos fenomenologicos: ¿que conjuntos de fenomenos ocurren naturalmente? (o ¿cuales son las manifestaciones posibles del mundo?)
@@ -28,7 +28,10 @@
 
 > Un enfoque filosofico que le de prioridad a las variadas funciones de los modelos está mejor preparada para dar algo de unidad a lajungla de estrategias para su construcción (p. 45)
 
-- El dirigido a objetivos puede ser mejor cuando uno no tiene mucha idea de los procesos causales o de la teoría.
-
 ---
 
+- El dirigido a objetivos puede ser mejor cuando uno no tiene mucha idea de los procesos causales o de la teoría.
+- Los fenomenológicos funcionan mejor en casos especificos.
+- Los causales microscópicos permiten señalar una clase de sistemas objetivo que comparten estructura causal.
+
+---
