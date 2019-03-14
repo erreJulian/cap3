@@ -45,4 +45,24 @@
 
 - Ginzburg-Landeau se acercaron al problema de la superconductividad desde una perspectiva global, buscando características del fenómeno en lugar de mecanismos causales a nivel cúantico.
 
-- 
+- El ejemplo de esta sección tiene que ver con dos enfoques guiados por teoría que serán complementarios:
+    - El primero simula una derivación de primeros principios para el sistema completo, pero solo para sus bloques constitutivos.
+    - El segundo procede de manera enteramente constructiva y se sirve de formalismos matemáticos muy maduros para construir de la nada el hamiltoniano.
+    
+---
+
+- El primer enfoque toma el bloque mas pequeño del cristal extendido.
+
+---
+
+!image(images/1-heehamiltonian.jpeg)
+
+---
+
+!image(images/2-matrix-element.jpeg)
+
+---
+
+!image(image/3-HubbardHamiltonian.jpeg)
+
+---
