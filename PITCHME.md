@@ -55,14 +55,14 @@
 
 ---
 
-!image(images/1-heehamiltonian.jpeg)
+!image(/images/1-heehamiltonian.jpeg)
 
 ---
 
-!image(images/2-matrix-element.jpeg)
+!image(/images/2-matrix-element.jpeg)
 
 ---
 
-!image(image/3-HubbardHamiltonian.jpeg)
+!image(/image/3-HubbardHamiltonian.jpeg)
 
 ---
