@@ -63,6 +63,6 @@
 
 ---
 
-![Hubbard Hamiltionian](/image/3-HubbardHamiltonian.jpeg)
+![Hubbard Hamiltionian](/images/3-HubbardHamiltonian.jpeg)
 
 ---
