@@ -95,5 +95,6 @@
 ---
 
 ![Creador y aniquilador](/images/4-homer.jpeg)
+---
 
 ![Creador y aniquilador](/images/5-operadores.jpeg)
