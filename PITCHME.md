@@ -39,8 +39,9 @@
 ## 3.2 BCS 
 
 ---
-## The Hubbard Model
+## 3.3 The Hubbard Model
 
+- (Un modelo para describir la transicion entre sistemas conductores y aislantes)
 ---
 
 - Ginzburg-Landeau se acercaron al problema de la superconductividad desde una perspectiva global, buscando características del fenómeno en lugar de mecanismos causales a nivel cúantico.
@@ -53,7 +54,9 @@
     
 ---
 
-- El primer enfoque toma el bloque mas pequeño del cristal extendido.
+- El primer enfoque toma el bloque mas pequeño del cristal extendido (en lugar de todas la particulas del solido).
+
+- > One can think of this way of constructing models as involving a thought experiment regarding how a many-body system condenses from a collection of isolated particles
 
 ---
 
@@ -68,3 +71,17 @@
 ![Hubbard Hamiltionian](/images/3-HubbardHamiltonian.jpeg)
 
 ---
+
+### El enfoque de Gelfert: Construcción de modelos guiada por formalismos
+
+---
+
+- Descansa en la disponibilidad de un "formalismo matemático maduro": un sistema de reglas y convenciones que abarca reglas aplicables localmente par la manipulación de la notación.
+
+- Estas reglas se derivan o están conectadas a ciertos compromisos teóricos o metodológicos.
+
+- (Cf. él mismo, 2011)
+
+---
+
+- El modelo guiado por formalismos difiere considerablemente de los fenomenológicos y los guiados por primeros principios
