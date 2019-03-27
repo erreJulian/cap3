@@ -56,7 +56,7 @@
 
 - El primer enfoque toma el bloque mas pequeño del cristal extendido (en lugar de todas la particulas del solido).
 
-- > One can think of this way of constructing models as involving a thought experiment regarding how a many-body system condenses from a collection of isolated particles
+> One can think of this way of constructing models as involving a thought experiment regarding how a many-body system condenses from a collection of isolated particles (p. 54).
 
 ---
 
@@ -85,3 +85,15 @@
 ---
 
 - El modelo guiado por formalismos difiere considerablemente de los fenomenológicos y los guiados por primeros principios
+
+---
+
+- ¿Como podríamos modelar la naturaleza itinerante de la conducción de electrones en metales tales como cobalto, niquiel y hierro?
+
+	- Nos servimos de un recurso teorico existentes (el formalismo cuantico de los llamados operadores de aniquilación y creación:
+	
+---
+
+![Creador y aniquilador](/images/4-homer.jpeg)
+
+![Creador y aniquilador](/images/5-operadores.jpeg)
