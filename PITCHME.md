@@ -60,17 +60,6 @@
 
 ---
 
-![HeeHamiltonian](/images/1-heehamiltonian.jpeg)
-
----
-
-![Matrix](/images/2-matrix-element.jpeg)
-
----
-
-![Hubbard Hamiltionian](/images/3-HubbardHamiltonian.jpeg)
-
----
 
 ### El enfoque de Gelfert: Construcción de modelos guiada por formalismos
 
@@ -95,6 +84,10 @@
 ---
 
 ![Creador y aniquilador](/images/4-homer.jpeg)
+
 ---
 
 ![Creador y aniquilador](/images/5-operadores.jpeg)
+
+---
+
