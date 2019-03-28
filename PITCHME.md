@@ -69,7 +69,7 @@
 
 - Estas reglas se derivan o están conectadas a ciertos compromisos teóricos o metodológicos.
 
-- (Cf. él mismo, 2011)
+- (Cf. él mismo, 2011 (nota 14)
 
 ---
 
@@ -88,6 +88,20 @@
 ---
 
 ![Creador y aniquilador](/images/5-operadores.jpeg)
+
+---
+
+- Para Cartwright, hay una elección muy clara a la hora de construir modelos: 
+    - O bien modelos fenomenologicos desde cero.
+    - O comenzar desde los modelos interpretativos previos como bloques para modelos mas complejos.
+ 
+---
+
+- En lugar de pensar que el enfoque basado en formalismos arroja un velo sobre el fenómeno, deberíamos pensar como los operadores mencionados arriba que juegan un rol liberador al permitir explorar un numero mayor de procesos y escenarios potenciales.
+
+---
+
+## 3.4: Lotka-Volterra
 
 ---
 
